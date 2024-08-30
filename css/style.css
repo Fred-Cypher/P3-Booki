@@ -161,7 +161,7 @@ li{
     border: none;
     font-size: 18px;
     font-weight: bold;
-    padding: 0 1rem;
+    padding: 0 16px;
 }
 
 .filter-bar{
@@ -195,7 +195,7 @@ li{
 }
 
 .filter-button i{
-    margin-right: 1rem;
+    margin-right: 16px;
     font-size: 22px;
 }
 
@@ -210,12 +210,12 @@ li{
     justify-content: center;
     align-items: center;
     border: 1px var(--filter-bg-color) solid;
-    height: 1rem;
-    width: 1rem;
-    font-size: 0.8rem;
+    height: 16px;
+    width: 16px;
+    font-size: 13px;
     border-radius: 25px;
-    padding: 0.3rem;
-    margin-right: 0.5rem;
+    padding: 5px;
+    margin-right: 8px;
 }
 
 /****** Hebergements And Populaires ***********/

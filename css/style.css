@@ -247,7 +247,7 @@ li{
 }
 
 .hebergements-cards a{
-    width: 32%;
+    width: 31%;
 }
 
 .hebergements-cards .card{
@@ -353,7 +353,7 @@ li{
 }
 
 .activities-cards a{
-    width: 24%;
+    width: 23%;
 }
 
 .activities-cards img{
@@ -393,6 +393,8 @@ li{
 .footer-title{
     margin: 0;
     font-size: 18px;
+    font-weight: bold;
+    padding-bottom: 20px;
 }
 
 .footer-list{
@@ -438,7 +440,8 @@ li{
         font-size: 14px;
     }
 
-    .populaires-cards .card-subtitle {
+    .populaires-cards .card-subtitle,
+    .hebergements-cards .card-subtitle {
         font-size: 13px;
     }
 }

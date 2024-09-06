@@ -87,7 +87,7 @@ li{
 }
 
 .anchor-link{
-    border-top: 2px var(--main-bg-color) solid;
+    border-top: 2px white solid;
     height: 35px;
     margin-left: 50px;
     font-size: 16px;
